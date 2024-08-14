@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass.csproj",
+      "projectUniqueName": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\Complete-CSharp-Masterclass\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass.csproj",
       "projectName": "CompleteCSharpMasterclass",
-      "projectPath": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass.csproj",
+      "projectPath": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\Complete-CSharp-Masterclass\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass.csproj",
       "packagesPath": "C:\\Users\\LAP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\CompleteCSharpMasterclass\\obj\\",
+      "outputPath": "C:\\Users\\LAP\\Documents\\GithubRepos\\CompleteCSharpMasterclass\\Complete-CSharp-Masterclass\\CompleteCSharpMasterclass\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\LAP\\AppData\\Roaming\\NuGet\\NuGet.Config"

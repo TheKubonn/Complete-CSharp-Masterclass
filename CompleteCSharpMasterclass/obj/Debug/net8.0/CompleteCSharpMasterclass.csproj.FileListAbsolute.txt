@@ -1,0 +1,15 @@
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\bin\Debug\net8.0\CompleteCSharpMasterclass.exe
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\bin\Debug\net8.0\CompleteCSharpMasterclass.deps.json
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\bin\Debug\net8.0\CompleteCSharpMasterclass.runtimeconfig.json
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\bin\Debug\net8.0\CompleteCSharpMasterclass.dll
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\bin\Debug\net8.0\CompleteCSharpMasterclass.pdb
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.AssemblyInfoInputs.cache
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.AssemblyInfo.cs
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.csproj.CoreCompileInputs.cache
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.sourcelink.json
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.dll
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\refint\CompleteCSharpMasterclass.dll
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.pdb
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\CompleteCSharpMasterclass.genruntimeconfig.cache
+C:\Users\LAP\Documents\GithubRepos\CompleteCSharpMasterclass\Complete-CSharp-Masterclass\CompleteCSharpMasterclass\obj\Debug\net8.0\ref\CompleteCSharpMasterclass.dll
